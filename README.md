@@ -14,8 +14,8 @@ An Android AI App which allows the following features.
 Users can switch between both the functionalities to perform text recognition or object detection one at a time.
 
 ## Used Features
--	Object Detection (Using Google Firebase ML Kit 2020 – Image Labelling Service)
--	Text Recognition (Using Google Firebase ML Kit 2020 – Text Recognition Service)
+-	Object Detection from Image Uploaded(Using Google Firebase ML Kit 2020 – Image Labelling Service)
+-	Text Recognition from Image Uploaded(Using Google Firebase ML Kit 2020 – Text Recognition Service)
 -	Chip Group in Android Studio
 -	Splash Screen for 1.5 seconds
 
