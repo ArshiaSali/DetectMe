@@ -37,7 +37,7 @@ Users can switch between both the functionalities to perform text recognition or
 
 <img width="324" alt="Screen Shot 2021-05-16 at 1 26 21 PM" src="https://user-images.githubusercontent.com/37695314/118412690-40754c00-b650-11eb-87ca-6c912e211dbb.png">
 
--Text Recognition
+- Text Recognition
 
 <img width="329" alt="Screen Shot 2021-05-16 at 1 25 48 PM" src="https://user-images.githubusercontent.com/37695314/118412699-51be5880-b650-11eb-9af0-454e7f62e111.png">
 
