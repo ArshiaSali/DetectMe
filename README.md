@@ -1,4 +1,4 @@
-# DetectMe Android App
+# DetectO Android App
 ## Topic : Interact with Cloud AI Services
 
 ## App Logo
